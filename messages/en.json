@@ -1,0 +1,13 @@
+{
+  "HomePage": {
+    "HeroSection": {
+      "title": "Delicious Food Delivered Fast",
+      "description": "Explore Morocco’s best local dishes and global flavors — all just a few clicks away."
+    }
+  },
+  "Header": {
+    "title": "Kivo",
+    "login": "Login",
+    "signUp": "Sign Up"
+  }
+}

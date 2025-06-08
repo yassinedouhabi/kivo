@@ -1,0 +1,13 @@
+{
+  "HomePage": {
+    "HeroSection": {
+      "title": "Des plats délicieux livrés rapidement",
+      "description": "Découvrez les meilleurs plats marocains et des saveurs du monde, à portée de clic."
+    }
+  },
+  "Header": {
+    "title": "Kivo",
+    "login": "Connexion",
+    "signUp": "Inscription"
+  }
+}
